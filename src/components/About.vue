@@ -51,10 +51,8 @@ body {
 
   div {
     &.content {
-      margin-left: 25%;
-      margin-right: 25%;
       padding: 1em;
-      border: solid rgba(233, 233, 233, 0.651) 3px;
+      text-align: center;
       margin-top: 3rem;
       background: #fff;
     }
